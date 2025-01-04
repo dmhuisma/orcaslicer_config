@@ -1,0 +1,32 @@
+{
+    "deretraction_speed": [
+        "0"
+    ],
+    "from": "User",
+    "gcode_flavor": "klipper",
+    "inherits": "Creality Ender-3 Pro 0.4 nozzle",
+    "is_custom_defined": "0",
+    "machine_max_jerk_x": [
+        "0",
+        "8"
+    ],
+    "machine_max_jerk_y": [
+        "0",
+        "8"
+    ],
+    "name": "Ender-3 Pro 0.4 nozzle - Klipper",
+    "printable_area": [
+        "0x0",
+        "230x0",
+        "230x215",
+        "0x215"
+    ],
+    "printer_settings_id": "Ender-3 Pro 0.4 nozzle - Klipper",
+    "retraction_length": [
+        "0.5"
+    ],
+    "retraction_speed": [
+        "35"
+    ],
+    "version": "2.2.0.4"
+}
